@@ -8,7 +8,7 @@ only be made to this repo if you are modifying old version builds of the docs,
 or for emergency hotfixes.**
 
 This git repository contains all the generated SymPy documentation. It is
-hosted at http://docs.sympy.org/ automatically by github.
+hosted automatically at http://docs.sympy.org/  by github.
 
 To build the docs in SymPy, cd into the SymPy clone, and do
 
@@ -38,7 +38,7 @@ of index.html remains intact. Run
 
 ## Release docs
 
-This is harder, because you have to update the index.
+This is harder because you have to update the index.
 
 First, move the current latest docs to the version number (which should
 currently be a redirect to the `latest` docs).
